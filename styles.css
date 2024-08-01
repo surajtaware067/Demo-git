@@ -1,0 +1,8 @@
+/* styles.css */
+
+.title {
+    color: #007bff;  /* Blue color for the text */
+    text-align: center;  /* Center-align the text */
+    font-family: 'Arial', sans-serif;  /* Use Arial font for the text */
+    margin-top: 50px;  /* Add top margin */
+}
